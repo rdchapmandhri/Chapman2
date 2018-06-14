@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(55, 0, 255);
+    font-style: italic;
+}
+p {
+    font-family: san serif;
+    font-style: normal;
+}
+#navbar {
+    background-color: yellow;
+    padding: 80px;
+}
+.intro {
+    font-family: arial;
+    background-color: grey;
+    color: dark grey;
+}
